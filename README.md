@@ -14,6 +14,7 @@ This is a simple phonebook app.
 5. cd ./App/phonebook
 6. npm install
 7. npm start (will start the client)
+8. mongod (start mongoDB)
 
 ## Configuration
 - To change the mongodb connection url or port open the file from /Server/Config/config.js
