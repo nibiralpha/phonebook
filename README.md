@@ -17,4 +17,4 @@ This is a simple phonebook app.
 
 ## Configuration
 - To change the mongodb connection url or port open the file from /Server/Config/config.js
-- Also set the baseurl of react app to correct api end point by changing the configuration of /App/phonebook/config.js this file
+- Also set the baseurl of react app to correct api end point by changing the configuration of this file /App/phonebook/config.js
