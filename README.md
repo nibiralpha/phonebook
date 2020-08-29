@@ -1,9 +1,9 @@
 # About
 This is a simple phonebook app.
 
--- Framework: Koa
--- Database: MongoDB
--- Frontend: ReactJS
+- Framework: Koa
+- Database: MongoDB
+- Frontend: ReactJS
 
 ## Instructions
 
@@ -16,5 +16,5 @@ This is a simple phonebook app.
 7. npm start (will start the client)
 
 ## Configuration
--- To change the mongodb connection url or port open the file from /Server/Config/config.js
--- Also set the baseurl of react app to correct api end point by changing the configuration of /App/phonebook/config.js this file
+- To change the mongodb connection url or port open the file from /Server/Config/config.js
+- Also set the baseurl of react app to correct api end point by changing the configuration of /App/phonebook/config.js this file
